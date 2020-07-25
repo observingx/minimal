@@ -5,6 +5,8 @@ tags: [interpersonal, conflict]
 draft: false
 ---
 
+![First Circuit Party](/img/angryStick.png)
+
 It's Friday the 13th!
 
 I'm referring to that person as "person" because I've always seen them as a person first and not by gender, race, or age. 

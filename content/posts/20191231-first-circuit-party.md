@@ -1,13 +1,13 @@
 ---
 title: First Circuit Party!
 date: 2019-12-29T16:07:10-08:00
-tags: [circuit party, romance] 
+tags: [party/clubs, romance] 
 draft: false
 ---
 
 
 
-![School](/img/firstCircuitParty.jpg)
+![First Circuit Party](/img/firstCircuitParty.jpg)
 
 Event date: Saturday, 28 Dec 2019
 

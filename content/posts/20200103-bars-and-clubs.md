@@ -1,7 +1,7 @@
 ---
 title: "Looking Back: Bars and Clubs"
 date: 2020-01-03T18:57:07-07:00
-tags: [interpersonal]
+tags: [interpersonal, party/clubs]
 draft: false
 ---
 

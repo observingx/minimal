@@ -1,7 +1,7 @@
 ---
 title: Hustlaball
 date: 2020-01-20T16:07:10-08:00
-tags: [circuit party, romance] 
+tags: [party/clubs, romance] 
 draft: false
 ---
 
