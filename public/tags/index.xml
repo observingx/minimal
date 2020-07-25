@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Some Title</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2020 22:41:41 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>romance</title>
+      <link>https://example.com/tags/romance/</link>
+      <pubDate>Sun, 19 Jul 2020 22:41:41 -0700</pubDate>
+      
+      <guid>https://example.com/tags/romance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex</title>
+      <link>https://example.com/tags/sex/</link>
+      <pubDate>Sun, 19 Jul 2020 22:41:41 -0700</pubDate>
+      
+      <guid>https://example.com/tags/sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://example.com/tags/philosophy/</link>
+      <pubDate>Sat, 11 Jul 2020 22:47:57 -0700</pubDate>
+      
+      <guid>https://example.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://example.com/tags/career/</link>
+      <pubDate>Sun, 23 Feb 2020 10:24:17 -0800</pubDate>
+      
+      <guid>https://example.com/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circuit party</title>
+      <link>https://example.com/tags/circuit-party/</link>
+      <pubDate>Mon, 20 Jan 2020 16:07:10 -0800</pubDate>
+      
+      <guid>https://example.com/tags/circuit-party/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
