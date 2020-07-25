@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>philosophy on Some Title</title>
-    <link>https://example.com/tags/philosophy/</link>
+    <link>/tags/philosophy/</link>
     <description>Recent content in philosophy on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jul 2020 22:47:57 -0700</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Know What Makes You Emotionally Tick: Hurt by a Flake</title>
-      <link>https://example.com/posts/20200711-flaked-on/</link>
+      <link>/posts/20200711-flaked-on/</link>
       <pubDate>Sat, 11 Jul 2020 22:47:57 -0700</pubDate>
       
-      <guid>https://example.com/posts/20200711-flaked-on/</guid>
+      <guid>/posts/20200711-flaked-on/</guid>
       <description>Event date: Saturday, 11 Jul 2020
 Writing date: Saturday, 11 Jul 2020
 Been talking to this guy, Joey, since morning. I thought he was perfect: face, body, ass. As we were talking throughout the day (i.e., daytime), I bought in to the hope that we would meet up later that night. However, come six o&amp;rsquo;clock evening, Joey bailed and had to go to Walmart. LOL. After that, I knew it wasn&amp;rsquo;t happening.</description>
@@ -24,10 +24,10 @@ Been talking to this guy, Joey, since morning. I thought he was perfect: face, b
     
     <item>
       <title>Be Honest with Yourself! About Emotions!</title>
-      <link>https://example.com/posts/20191223-be-honest/</link>
+      <link>/posts/20191223-be-honest/</link>
       <pubDate>Mon, 23 Dec 2019 15:21:14 -0800</pubDate>
       
-      <guid>https://example.com/posts/20191223-be-honest/</guid>
+      <guid>/posts/20191223-be-honest/</guid>
       <description>In romantic ventures, be honest to yourself about your emotions. Ask, &amp;ldquo;Am I attracted? What does myself need now?&amp;rdquo; Are you even attracted to the person as a whole: looks and personality? @Mad at Myself (again) during Holidays
 This situation could have been solved several ways:
   Prevention by asking for face/body pics &amp;ndash; You gotta assess if there&amp;rsquo;s attraction first before making any move.
@@ -36,10 +36,10 @@ This situation could have been solved several ways:
     
     <item>
       <title>Know Thyself: Your Predisposition</title>
-      <link>https://example.com/posts/20191109-predisposition/</link>
+      <link>/posts/20191109-predisposition/</link>
       <pubDate>Sat, 09 Nov 2019 00:42:23 -0800</pubDate>
       
-      <guid>https://example.com/posts/20191109-predisposition/</guid>
+      <guid>/posts/20191109-predisposition/</guid>
       <description>predisposition: noun a liability or tendency to suffer from a particular condition, hold a particular attitude, or act in a particular way
 Event date: Friday, 08 Nov 2019
 Writing date: Saturday, 09 Nov 2019
