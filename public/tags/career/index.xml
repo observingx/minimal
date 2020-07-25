@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>career on Some Title</title>
-    <link>/tags/career/</link>
+    <link>https://competent-curie-99f8a9.netlify.app/tags/career/</link>
     <description>Recent content in career on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2020 10:24:17 -0800</lastBuildDate>
     
-	<atom:link href="/tags/career/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://competent-curie-99f8a9.netlify.app/tags/career/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Outliers</title>
-      <link>/posts/20200223-outliers/</link>
+      <link>https://competent-curie-99f8a9.netlify.app/posts/20200223-outliers/</link>
       <pubDate>Sun, 23 Feb 2020 10:24:17 -0800</pubDate>
       
-      <guid>/posts/20200223-outliers/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/outliers.jpg&#34; alt=&#34;Outliers&#34;&gt;&lt;/p&gt;
+      <guid>https://competent-curie-99f8a9.netlify.app/posts/20200223-outliers/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://competent-curie-99f8a9.netlify.app/img/outliers.jpg&#34; alt=&#34;Outliers&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A book on why  certain people are successful.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>School Acceptance!</title>
-      <link>/posts/20191101-acceptance/</link>
+      <link>https://competent-curie-99f8a9.netlify.app/posts/20191101-acceptance/</link>
       <pubDate>Fri, 01 Nov 2019 00:55:36 -0800</pubDate>
       
-      <guid>/posts/20191101-acceptance/</guid>
+      <guid>https://competent-curie-99f8a9.netlify.app/posts/20191101-acceptance/</guid>
       <description>Event date: Friday, 01 Nov 2019
 Writing date: Friday, 01 Nov 2019
 It finally arrived! The phone call acceptance I&amp;rsquo;ve been longing for! I admit, the past 24 hours leading to that phone call was anxiety-inducing. Would I get the call at all? A rejection email perhaps? I even told myself I would be happy if I would be put on hold; anything but a rejection!

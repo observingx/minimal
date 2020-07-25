@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://competent-curie-99f8a9.netlify.app/"
 languageCode = "en-us"
 title = "Some Title"
 theme = "minimal-bootstrap-hugo-theme"
