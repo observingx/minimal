@@ -2,57 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Some Title</title>
-    <link>https://competent-curie-99f8a9.netlify.app/tags/</link>
+    <link>https://observingx.netlify.app/tags/</link>
     <description>Recent content in Tags on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jul 2020 22:41:41 -0700</lastBuildDate>
     
-	<atom:link href="https://competent-curie-99f8a9.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://observingx.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>romance</title>
-      <link>https://competent-curie-99f8a9.netlify.app/tags/romance/</link>
+      <link>https://observingx.netlify.app/tags/romance/</link>
       <pubDate>Sun, 19 Jul 2020 22:41:41 -0700</pubDate>
       
-      <guid>https://competent-curie-99f8a9.netlify.app/tags/romance/</guid>
+      <guid>https://observingx.netlify.app/tags/romance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sex</title>
-      <link>https://competent-curie-99f8a9.netlify.app/tags/sex/</link>
+      <link>https://observingx.netlify.app/tags/sex/</link>
       <pubDate>Sun, 19 Jul 2020 22:41:41 -0700</pubDate>
       
-      <guid>https://competent-curie-99f8a9.netlify.app/tags/sex/</guid>
+      <guid>https://observingx.netlify.app/tags/sex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>philosophy</title>
-      <link>https://competent-curie-99f8a9.netlify.app/tags/philosophy/</link>
+      <link>https://observingx.netlify.app/tags/philosophy/</link>
       <pubDate>Sat, 11 Jul 2020 22:47:57 -0700</pubDate>
       
-      <guid>https://competent-curie-99f8a9.netlify.app/tags/philosophy/</guid>
+      <guid>https://observingx.netlify.app/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conflict</title>
+      <link>https://observingx.netlify.app/tags/conflict/</link>
+      <pubDate>Fri, 13 Mar 2020 18:57:07 -0700</pubDate>
+      
+      <guid>https://observingx.netlify.app/tags/conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interpersonal</title>
+      <link>https://observingx.netlify.app/tags/interpersonal/</link>
+      <pubDate>Fri, 13 Mar 2020 18:57:07 -0700</pubDate>
+      
+      <guid>https://observingx.netlify.app/tags/interpersonal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>career</title>
-      <link>https://competent-curie-99f8a9.netlify.app/tags/career/</link>
+      <link>https://observingx.netlify.app/tags/career/</link>
       <pubDate>Sun, 23 Feb 2020 10:24:17 -0800</pubDate>
       
-      <guid>https://competent-curie-99f8a9.netlify.app/tags/career/</guid>
+      <guid>https://observingx.netlify.app/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>circuit party</title>
-      <link>https://competent-curie-99f8a9.netlify.app/tags/circuit-party/</link>
+      <link>https://observingx.netlify.app/tags/circuit-party/</link>
       <pubDate>Mon, 20 Jan 2020 16:07:10 -0800</pubDate>
       
-      <guid>https://competent-curie-99f8a9.netlify.app/tags/circuit-party/</guid>
+      <guid>https://observingx.netlify.app/tags/circuit-party/</guid>
       <description></description>
     </item>
     
