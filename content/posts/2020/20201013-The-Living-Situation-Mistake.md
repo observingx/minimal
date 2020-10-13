@@ -1,7 +1,7 @@
 ---
 title: "The Living Situation Mistake: Pennywise, Poundfoolish"
 date: 2020-10-13T02:09:49-05:00
-tags: [career, life]
+tags: [life, life choices]
 draft: false
 ---
 
