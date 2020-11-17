@@ -17,5 +17,9 @@ Though we only lived together for a year, it was meaningful enough that it trans
 
 # The Micro Agression
 
+Visiting my friend in Arizona, I got a chance to hike with him and his girlfriend at a legit nature trail. No cars, no phone signal, nothing  except nature. It was very beautiful. The daily weather in that town, as I was told, has always been very beautiful  because of the elevation and location, and that morning when we hiked definitely confirmed it. 
+
+When we went to lunch after, I met two of his female friends. After being introduced to one of them and what I do, she reacted "gross". I should have said prodded for more (emotions), like "I heard 'gross'. What made you feel that way?" I think this would have slowed the dance. Then, she immediately asked me directly: "Where are you from, originally?"  I was taken aback. My default had always been to "give-in" when faced with confrontation, so I meekly responded with the factual answer. Looking back, I should have seen this more of a dance. I need not give in to her demands, and I should have treated the interaction as a dance——something that's supposed to be  a fun experience, and if it's no longer fun then I dance away or around. I could have said, "Why is that?" and/or "I feel uncomfortable, so I plea the 5th." Lead with emotions when dancing! 
+
 # Scrambling for a place to stay
 
