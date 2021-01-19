@@ -1,10 +1,14 @@
 ---
-title: "20201117 Medical Interview"
+title: "Medical Interview"
 date: 2020-11-17T10:46:24-06:00
 tags: [medical]
 draft: false
 ---
 
+Melinda said to remember
+
+* Look them in the eyes
+* Acknowledge whenever they tell you something. They're sharing it to you. (e.g., Thank you for sharing that, I'm sorry to hear that, That must be really hard, etd...)
 
 ### 0: Intrapersonal
 
