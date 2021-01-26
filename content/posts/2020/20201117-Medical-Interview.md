@@ -9,6 +9,7 @@ Melinda said to remember
 
 * Look them in the eyes
 * Acknowledge whenever they tell you something. They're sharing it to you. (e.g., Thank you for sharing that, I'm sorry to hear that, That must be really hard, etd...)
+* /ˌōˈkā/ and /ˈˌôl ˈrīt/
 
 ### 0: Intrapersonal
 
