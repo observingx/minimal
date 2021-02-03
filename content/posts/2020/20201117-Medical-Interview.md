@@ -12,8 +12,8 @@ draft: false
 * Open-Ended Focusing Skills –- Focusing skills **encourage the patient to expand** on specific parts of the information they have already “placed on the table”
 * Closed-Ended Data-Gathering Skills — HPI
 
-2. Empathy skills: (to be used whenever)
-* Emotion-Seeking Skills -- you must actively seek them even when they have not been “placed on the table”—or when they have only been **hinted at**. 
+2. Empathy skills: 
+* Emotion-Seeking Skills (use at the top of the interview) -- you must actively seek them even when they have not been “placed on the table”—or when they have only been **hinted at**. 
   * Direct Inquiry --  You can let the patient identify the specific feeling by asking how s/he feels about the situation 
     * *“I noticed that you have been looking away. Can you tell me how you are feeling?”*
     * *"How are you feeling about this, emotionally?"* 
@@ -27,7 +27,7 @@ draft: false
     * Asking about triggers: Determining why the patient is seeking care at this precise time. A common trigger that can lead to emotional expression is interpersonal crisis.
       * *“What made you decide to see me today for this [symptom]?”*
       * *“What else is going on in your life?”*
-* Empathy Skills
+* Empathy Skills (to be used whenever)
   * Naming the Feeling/Emotion
   * Understanding -- acknowledges that the patient's emotional reaction is understood
   * Respecting (Praising or Appreciating the Patient and/or Acknowledging His/Her Situation) 
