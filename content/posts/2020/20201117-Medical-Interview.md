@@ -5,10 +5,43 @@ tags: [medical]
 draft: false
 ---
 
-Melinda said to remember
+### Remember your toolset:
+
+1. Data-gathering skills (in this order):
+* Open-Ended Nonfocusing Skills —- make pt put information "on the table"
+* Open-Ended Focusing Skills –- Focusing skills **encourage the patient to expand** on specific parts of the information they have already “placed on the table”
+* Closed-Ended Data-Gathering Skills — HPI
+
+2. Empathy skills: (to be used whenever)
+* Emotion-Seeking Skills -- you must actively seek them even when they have not been “placed on the table”—or when they have only been **hinted at**. 
+  * Direct Inquiry --  You can let the patient identify the specific feeling by asking how s/he feels about the situation 
+    * *“I noticed that you have been looking away. Can you tell me how you are feeling?”*
+    * *"How are you feeling about this, emotionally?"* 
+    * *"How are you feeling right now, talking about it?"*
+  * Indirect Inquiry -- Patients do not always respond to direct emotion-seeking skills with an expression of feeling or emotion; this does not necessarily mean that the patient does not have or want to share them. Because emotion is important, it is **crucial** to continue to seek feelings/emotions. 
+    * Inquiring about impact: *“How has your back pain affected your day-to-day life?”*
+    * Eliciting beliefs/attributions:  Asking what the patient thinks caused the problem is not only helpful for understanding the patient's medical explanatory model but it may also uncover an underlying feeling or emotion, particularly if the patient believes that a serious condition may be causing the symptom.
+    * Intuiting how the patient might be feeling: 
+      * *“I can imagine that this might be worrying for you”* 
+      * *“The idea that your neighbor died of the same disease could be frightening.”*
+    * Asking about triggers: Determining why the patient is seeking care at this precise time. A common trigger that can lead to emotional expression is interpersonal crisis.
+      * *“What made you decide to see me today for this [symptom]?”*
+      * *“What else is going on in your life?”*
+* Empathy Skills
+  * Naming the Feeling/Emotion
+  * Understanding -- acknowledges that the patient's emotional reaction is understood
+  * Respecting (Praising or Appreciating the Patient and/or Acknowledging His/Her Situation) 
+    * *“Thanks for being so open”* or *“You've really been through a lot”*
+  * Supporting --  form a partnership with the patient
+    * *“I'm here to help in any way I can. I'll make sure the attending physician is aware of your specific concerns.”*
+
+
+SPs said to remember
 
 * Look them in the eyes
-* Acknowledge whenever they tell you something. They're sharing it to you. (e.g., Thank you for sharing that, I'm sorry to hear that, That must be really hard, etd...)
+* Acknowledge and then **address** whenever they tell you something. They're sharing it to you.
+  * Acknowldeging: e.g., Thank you for sharing that, I'm sorry to hear that, That must be really hard, etc...
+  * Addressing: e.g., explore options, ask further questions, talk about it.
 * /ˌōˈkā/ and /ˈˌôl ˈrīt/
 
 ### 0: Intrapersonal
@@ -155,10 +188,10 @@ Social History:
     -   What’s your typical diet like on a regular day? 
 -   Have you ever smoked in the past?
     -   How about use of alcohol or recreational drugs?
-- How active were you sexually in the last 6 months?
+- How sexually active were you in the last 6 months?
     -  How many sexual partners?
     -  What were their genders or sexual identities?
-    -   Were you using protection or contraceptives?
+    -  Were you using protection or contraceptives?
 -  Any recent travel or exposure to someone who might be sick?
     
 
